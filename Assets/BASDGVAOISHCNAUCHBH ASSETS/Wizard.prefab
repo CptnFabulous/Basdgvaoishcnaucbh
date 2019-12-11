@@ -1884,8 +1884,8 @@ MonoBehaviour:
   droppedItems:
   - item: {fileID: 6396267097449058730, guid: bfc6ae72272a892419293ab192b3e093, type: 3}
     quantity: 1
-  - item: {fileID: 6396267097449058730, guid: e5ef9bcc6c3f6354ea350587cc0f513a, type: 3}
-    quantity: 1
+  - item: {fileID: 8604143335854015636, guid: a4130bde53fac2b44a619cebe5da85cc, type: 3}
+    quantity: 2
   dropZone: {x: 1, y: 2, z: 1}
 --- !u!114 &9208638707688943522
 MonoBehaviour:
